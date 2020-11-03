@@ -1,5 +1,9 @@
+/** @format */
+
 .App {
   text-align: center;
+  overflow-x: hidden;
+  margin: auto;
 }
 
 .App-logo {
